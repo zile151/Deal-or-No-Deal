@@ -1,0 +1,2 @@
+To run the Deal or No Deal Java applet, you will need a JRE.
+Put all the images into the same folder and then compile and execute the deal.java file, 
